@@ -4,3 +4,8 @@
 .b_1 {
   border: 1px solid #000000;
 }
+.nested {
+  border: 1px solid #ffffff;
+  background-color: #f07f80;
+  padding: 1rem;
+}
